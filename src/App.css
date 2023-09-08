@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #f5f6f7;
+
+}
+
+html, body{
+  font-size: 18px;
+  background-color: #f5f6f7;
+
+}
+
+h1{
+  
+  line-height: 1.1;
+  max-width: 940px;
+  font-size: 2.5em;
+  font-family: sans-serif;
+  font-weight: 700px;
+  margin: 40px 0;
+}
+.App{
+  min-height: 100vh;
+  display: flex;
+  flex-flow: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.divprincial{
+  min-height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
